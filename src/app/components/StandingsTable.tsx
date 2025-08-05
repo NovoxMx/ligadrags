@@ -91,7 +91,7 @@ export default function StandingsTable() {
       <table className="w-full text-sm text-left text-white">
         <thead className="text-xs uppercase text-[#aaa] border-b border-[#444]">
           <tr>
-            <th className="py-2">Equipo</th>
+            <th className="py-2">Equipos:</th>
             <th>J</th>
             <th>G</th>
             <th>P</th>
