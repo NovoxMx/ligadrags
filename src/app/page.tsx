@@ -15,7 +15,7 @@ export default function App() {
                 <PlayersGrid />
                 <StandingsTable />
                 <br/>
-                <div className="rounded-md bg-white w-2/8 flex justify-center item-center hover:bg-transparent hover:border-1 hover:border-[#33aaff] ">
+                <div className="rounded-md bg-white w-1/8 md:w-2/8 flex justify-center item-center hover:bg-transparent hover:border-1 hover:border-[#33aaff] ">
                     <Link href="/torneo" className="flex justify-center text-[#33aaff] ">Ver Torneo</Link>
                 </div>
                 <section className="schedule mt-6">
