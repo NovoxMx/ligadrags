@@ -4,7 +4,6 @@ import LeagueInfo from './components/LeagueInfo';
 import PlayersGrid from './components/PlayersGrid';
 import StandingsTable from './components/StandingsTable';
 import MatchDay from './components/MatchDay';
-
 import matches from './data/matches';
 
 export default function App() {
