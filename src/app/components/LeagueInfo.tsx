@@ -5,7 +5,7 @@ export default function LeagueInfo() {
         <p><strong>Juego:</strong> Rainbow Six Siege</p>
         <p><strong>Formato:</strong> Single Round Robin (Todos contra todos)</p>
         <p><strong>Fechas:</strong> 5 de Agosto 2025 - 10 de Agosto 2025</p>
-        <p><strong>Premio Total:</strong> 200 MXN + los que quieran poner los jotos</p>
+        <p><strong>Premio Total:</strong> 400 MXN + los que quieran poner los jotos</p>
 
         <p className="mt-4">
           Esta liga fue creada con el propósito de divertirnos entre amigos y dejar registrado lo que pasó. Participan jugadores
