@@ -4,7 +4,7 @@ export default function LeagueInfo() {
         <h1 className="text-3xl text-[#33aaff] font-bold mb-2">Liga Drags 2025</h1>
         <p><strong>Juego:</strong> Rainbow Six Siege</p>
         <p><strong>Formato:</strong> Single Round Robin (Todos contra todos)</p>
-        <p><strong>Fechas:</strong> 5 de Agosto 2025 - 10 de Agosto 2025</p>
+        <p><strong>Fechas:</strong> 6 de Agosto 2025 - 10 de Agosto 2025</p>
         <p><strong>Premio Total:</strong> 400 MXN + los que quieran poner los jotos</p>
 
         <p className="mt-4">
